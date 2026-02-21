@@ -1,0 +1,8 @@
+{
+  "name": "Telecom Spatial Intelligence & Compliance Agent",
+  "description": "Professional-grade multimodal agent for auditing fiber optic infrastructure, evaluating workmanship standards, and detecting operational compliance risks.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
